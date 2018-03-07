@@ -1,0 +1,12 @@
+com\himanshu\spring_boot_weather\repository_impl\WeatherRepositoryImpl.class
+com\himanshu\spring_boot_weather\entity\Person.class
+com\himanshu\spring_boot_weather\repository\WeatherRepositoryCustom.class
+com\himanshu\spring_boot_weather\repository\WeatherRepository.class
+com\himanshu\spring_boot_weather\controller\WeatherController.class
+com\himanshu\spring_boot_weather\constants\URI.class
+com\himanshu\spring_boot_weather\repository\CitiesOnly.class
+com\himanshu\spring_boot_weather\entity\Weather.class
+com\himanshu\spring_boot_weather\service\WeatherService.class
+com\himanshu\spring_boot_weather\entity\Wind.class
+com\himanshu\spring_boot_weather\service\impl\WeatherServiceImpl.class
+com\himanshu\spring_boot_weather\Application.class
